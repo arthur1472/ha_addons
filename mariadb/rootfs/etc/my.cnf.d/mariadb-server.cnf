@@ -44,3 +44,4 @@ innodb_sort_buffer_size = 4M
 innodb_read_io_threads = 64
 innodb_write_io_threads = 64
 max_binlog_size = 96M
+
